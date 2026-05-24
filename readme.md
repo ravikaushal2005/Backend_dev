@@ -18,3 +18,10 @@ create folder on src controllers ,db , middlewares ,models,routes utils
 prttier extension setups  npm i -D prettier
 
 create .prettierrc 
+
+
+
+
+
+
+
